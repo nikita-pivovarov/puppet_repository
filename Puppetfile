@@ -8,10 +8,6 @@ mod 'profiles',
   :git => 'git://github.com/nikita-pivovarov/puppet-profiles',
   :tag => '0.0.6'
 
-mod 'ntp',
-  :git => 'https://github.com/nikita-pivovarov/bv-prr-puppet-common/tree/master/puppet/modules/ntp.git',
-  :tag => 'v4.1.2'
-
-mod 'nscd',
-  :git => 'https://github.com/nikita-pivovarov/bv-prr-puppet-common/tree/master/puppet/modules/nscd.git',
-  :tag => '0.2.0'
+mod 'common',
+  :git => 'https://github.com/nikita-pivovarov/bv-prr-puppet-common',
+  :tag => 'v0.1.0'
