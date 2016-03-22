@@ -10,4 +10,4 @@ mod 'profiles',
 
 mod 'common',
   :git => 'https://github.com/nikita-pivovarov/bv-prr-puppet-common',
-  :tag => 'v0.1.0'
+  :ref => 'c623d89293b4df27f3473f6e6ef31f71db28e49d'
